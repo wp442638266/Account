@@ -1,6 +1,6 @@
 # 1、技术栈
 Asp.net core Web API + Autofac + EFCore + Element-UI + SqlServer2008R2
-# 2、项目结构图
+# 2、项目结构图Acount/Acount.Core
 简要介绍下各工程：
 
 Account：net core Web API类型，为前端提供Rest服务
